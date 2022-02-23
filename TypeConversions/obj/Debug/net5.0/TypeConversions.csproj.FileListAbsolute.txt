@@ -1,0 +1,16 @@
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TypeConversions\bin\Debug\net5.0\TypeConversions.exe
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TypeConversions\bin\Debug\net5.0\TypeConversions.deps.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TypeConversions\bin\Debug\net5.0\TypeConversions.runtimeconfig.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TypeConversions\bin\Debug\net5.0\TypeConversions.runtimeconfig.dev.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TypeConversions\bin\Debug\net5.0\TypeConversions.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TypeConversions\bin\Debug\net5.0\ref\TypeConversions.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TypeConversions\bin\Debug\net5.0\TypeConversions.pdb
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TypeConversions\obj\Debug\net5.0\TypeConversions.csproj.AssemblyReference.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TypeConversions\obj\Debug\net5.0\TypeConversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TypeConversions\obj\Debug\net5.0\TypeConversions.AssemblyInfoInputs.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TypeConversions\obj\Debug\net5.0\TypeConversions.AssemblyInfo.cs
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TypeConversions\obj\Debug\net5.0\TypeConversions.csproj.CoreCompileInputs.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TypeConversions\obj\Debug\net5.0\TypeConversions.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TypeConversions\obj\Debug\net5.0\ref\TypeConversions.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TypeConversions\obj\Debug\net5.0\TypeConversions.pdb
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TypeConversions\obj\Debug\net5.0\TypeConversions.genruntimeconfig.cache
