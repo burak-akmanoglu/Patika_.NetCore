@@ -1,0 +1,16 @@
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\Variable\bin\Debug\net5.0\Variable.exe
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\Variable\bin\Debug\net5.0\Variable.deps.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\Variable\bin\Debug\net5.0\Variable.runtimeconfig.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\Variable\bin\Debug\net5.0\Variable.runtimeconfig.dev.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\Variable\bin\Debug\net5.0\Variable.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\Variable\bin\Debug\net5.0\ref\Variable.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\Variable\bin\Debug\net5.0\Variable.pdb
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\Variable\obj\Debug\net5.0\Variable.csproj.AssemblyReference.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\Variable\obj\Debug\net5.0\Variable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\Variable\obj\Debug\net5.0\Variable.AssemblyInfoInputs.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\Variable\obj\Debug\net5.0\Variable.AssemblyInfo.cs
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\Variable\obj\Debug\net5.0\Variable.csproj.CoreCompileInputs.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\Variable\obj\Debug\net5.0\Variable.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\Variable\obj\Debug\net5.0\ref\Variable.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\Variable\obj\Debug\net5.0\Variable.pdb
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\Variable\obj\Debug\net5.0\Variable.genruntimeconfig.cache
