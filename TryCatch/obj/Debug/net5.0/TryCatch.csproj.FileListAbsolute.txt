@@ -1,0 +1,16 @@
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TryCatch\bin\Debug\net5.0\TryCatch.exe
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TryCatch\bin\Debug\net5.0\TryCatch.deps.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TryCatch\bin\Debug\net5.0\TryCatch.runtimeconfig.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TryCatch\bin\Debug\net5.0\TryCatch.runtimeconfig.dev.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TryCatch\bin\Debug\net5.0\TryCatch.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TryCatch\bin\Debug\net5.0\ref\TryCatch.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TryCatch\bin\Debug\net5.0\TryCatch.pdb
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TryCatch\obj\Debug\net5.0\TryCatch.csproj.AssemblyReference.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TryCatch\obj\Debug\net5.0\TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TryCatch\obj\Debug\net5.0\TryCatch.AssemblyInfoInputs.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TryCatch\obj\Debug\net5.0\TryCatch.AssemblyInfo.cs
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TryCatch\obj\Debug\net5.0\TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TryCatch\obj\Debug\net5.0\TryCatch.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TryCatch\obj\Debug\net5.0\ref\TryCatch.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TryCatch\obj\Debug\net5.0\TryCatch.pdb
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TryCatch\obj\Debug\net5.0\TryCatch.genruntimeconfig.cache
