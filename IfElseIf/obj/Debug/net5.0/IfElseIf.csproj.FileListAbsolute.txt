@@ -1,0 +1,16 @@
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\IfElseIf\bin\Debug\net5.0\IfElseIf.exe
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\IfElseIf\bin\Debug\net5.0\IfElseIf.deps.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\IfElseIf\bin\Debug\net5.0\IfElseIf.runtimeconfig.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\IfElseIf\bin\Debug\net5.0\IfElseIf.runtimeconfig.dev.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\IfElseIf\bin\Debug\net5.0\IfElseIf.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\IfElseIf\bin\Debug\net5.0\ref\IfElseIf.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\IfElseIf\bin\Debug\net5.0\IfElseIf.pdb
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\IfElseIf\obj\Debug\net5.0\IfElseIf.csproj.AssemblyReference.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\IfElseIf\obj\Debug\net5.0\IfElseIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\IfElseIf\obj\Debug\net5.0\IfElseIf.AssemblyInfoInputs.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\IfElseIf\obj\Debug\net5.0\IfElseIf.AssemblyInfo.cs
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\IfElseIf\obj\Debug\net5.0\IfElseIf.csproj.CoreCompileInputs.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\IfElseIf\obj\Debug\net5.0\IfElseIf.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\IfElseIf\obj\Debug\net5.0\ref\IfElseIf.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\IfElseIf\obj\Debug\net5.0\IfElseIf.pdb
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\IfElseIf\obj\Debug\net5.0\IfElseIf.genruntimeconfig.cache
