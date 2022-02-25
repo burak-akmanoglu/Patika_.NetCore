@@ -1,0 +1,16 @@
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\WhileForeach\bin\Debug\net5.0\WhileForeach.exe
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\WhileForeach\bin\Debug\net5.0\WhileForeach.deps.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\WhileForeach\bin\Debug\net5.0\WhileForeach.runtimeconfig.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\WhileForeach\bin\Debug\net5.0\WhileForeach.runtimeconfig.dev.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\WhileForeach\bin\Debug\net5.0\WhileForeach.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\WhileForeach\bin\Debug\net5.0\ref\WhileForeach.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\WhileForeach\bin\Debug\net5.0\WhileForeach.pdb
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\WhileForeach\obj\Debug\net5.0\WhileForeach.csproj.AssemblyReference.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\WhileForeach\obj\Debug\net5.0\WhileForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\WhileForeach\obj\Debug\net5.0\WhileForeach.AssemblyInfoInputs.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\WhileForeach\obj\Debug\net5.0\WhileForeach.AssemblyInfo.cs
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\WhileForeach\obj\Debug\net5.0\WhileForeach.csproj.CoreCompileInputs.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\WhileForeach\obj\Debug\net5.0\WhileForeach.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\WhileForeach\obj\Debug\net5.0\ref\WhileForeach.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\WhileForeach\obj\Debug\net5.0\WhileForeach.pdb
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\WhileForeach\obj\Debug\net5.0\WhileForeach.genruntimeconfig.cache
