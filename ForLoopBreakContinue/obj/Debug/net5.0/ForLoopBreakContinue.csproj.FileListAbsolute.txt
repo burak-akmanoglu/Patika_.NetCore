@@ -1,0 +1,16 @@
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ForLoopBreakContinue\bin\Debug\net5.0\ForLoopBreakContinue.exe
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ForLoopBreakContinue\bin\Debug\net5.0\ForLoopBreakContinue.deps.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ForLoopBreakContinue\bin\Debug\net5.0\ForLoopBreakContinue.runtimeconfig.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ForLoopBreakContinue\bin\Debug\net5.0\ForLoopBreakContinue.runtimeconfig.dev.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ForLoopBreakContinue\bin\Debug\net5.0\ForLoopBreakContinue.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ForLoopBreakContinue\bin\Debug\net5.0\ref\ForLoopBreakContinue.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ForLoopBreakContinue\bin\Debug\net5.0\ForLoopBreakContinue.pdb
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ForLoopBreakContinue\obj\Debug\net5.0\ForLoopBreakContinue.csproj.AssemblyReference.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ForLoopBreakContinue\obj\Debug\net5.0\ForLoopBreakContinue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ForLoopBreakContinue\obj\Debug\net5.0\ForLoopBreakContinue.AssemblyInfoInputs.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ForLoopBreakContinue\obj\Debug\net5.0\ForLoopBreakContinue.AssemblyInfo.cs
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ForLoopBreakContinue\obj\Debug\net5.0\ForLoopBreakContinue.csproj.CoreCompileInputs.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ForLoopBreakContinue\obj\Debug\net5.0\ForLoopBreakContinue.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ForLoopBreakContinue\obj\Debug\net5.0\ref\ForLoopBreakContinue.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ForLoopBreakContinue\obj\Debug\net5.0\ForLoopBreakContinue.pdb
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ForLoopBreakContinue\obj\Debug\net5.0\ForLoopBreakContinue.genruntimeconfig.cache
