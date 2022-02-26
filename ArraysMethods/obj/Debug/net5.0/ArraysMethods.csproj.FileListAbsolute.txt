@@ -1,0 +1,16 @@
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ArraysMethods\bin\Debug\net5.0\ArraysMethods.exe
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ArraysMethods\bin\Debug\net5.0\ArraysMethods.deps.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ArraysMethods\bin\Debug\net5.0\ArraysMethods.runtimeconfig.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ArraysMethods\bin\Debug\net5.0\ArraysMethods.runtimeconfig.dev.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ArraysMethods\bin\Debug\net5.0\ArraysMethods.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ArraysMethods\bin\Debug\net5.0\ref\ArraysMethods.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ArraysMethods\bin\Debug\net5.0\ArraysMethods.pdb
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ArraysMethods\obj\Debug\net5.0\ArraysMethods.csproj.AssemblyReference.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ArraysMethods\obj\Debug\net5.0\ArraysMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ArraysMethods\obj\Debug\net5.0\ArraysMethods.AssemblyInfoInputs.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ArraysMethods\obj\Debug\net5.0\ArraysMethods.AssemblyInfo.cs
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ArraysMethods\obj\Debug\net5.0\ArraysMethods.csproj.CoreCompileInputs.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ArraysMethods\obj\Debug\net5.0\ArraysMethods.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ArraysMethods\obj\Debug\net5.0\ref\ArraysMethods.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ArraysMethods\obj\Debug\net5.0\ArraysMethods.pdb
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ArraysMethods\obj\Debug\net5.0\ArraysMethods.genruntimeconfig.cache
