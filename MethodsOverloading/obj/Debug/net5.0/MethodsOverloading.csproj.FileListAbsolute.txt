@@ -1,0 +1,16 @@
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\MethodsOverloading\bin\Debug\net5.0\MethodsOverloading.exe
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\MethodsOverloading\bin\Debug\net5.0\MethodsOverloading.deps.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\MethodsOverloading\bin\Debug\net5.0\MethodsOverloading.runtimeconfig.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\MethodsOverloading\bin\Debug\net5.0\MethodsOverloading.runtimeconfig.dev.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\MethodsOverloading\bin\Debug\net5.0\MethodsOverloading.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\MethodsOverloading\bin\Debug\net5.0\ref\MethodsOverloading.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\MethodsOverloading\bin\Debug\net5.0\MethodsOverloading.pdb
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\MethodsOverloading\obj\Debug\net5.0\MethodsOverloading.csproj.AssemblyReference.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\MethodsOverloading\obj\Debug\net5.0\MethodsOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\MethodsOverloading\obj\Debug\net5.0\MethodsOverloading.AssemblyInfoInputs.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\MethodsOverloading\obj\Debug\net5.0\MethodsOverloading.AssemblyInfo.cs
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\MethodsOverloading\obj\Debug\net5.0\MethodsOverloading.csproj.CoreCompileInputs.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\MethodsOverloading\obj\Debug\net5.0\MethodsOverloading.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\MethodsOverloading\obj\Debug\net5.0\ref\MethodsOverloading.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\MethodsOverloading\obj\Debug\net5.0\MethodsOverloading.pdb
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\MethodsOverloading\obj\Debug\net5.0\MethodsOverloading.genruntimeconfig.cache
