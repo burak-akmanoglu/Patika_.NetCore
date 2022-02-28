@@ -1,0 +1,16 @@
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\RecursiveExtensionMethod\bin\Debug\net5.0\RecursiveExtensionMethod.exe
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\RecursiveExtensionMethod\bin\Debug\net5.0\RecursiveExtensionMethod.deps.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\RecursiveExtensionMethod\bin\Debug\net5.0\RecursiveExtensionMethod.runtimeconfig.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\RecursiveExtensionMethod\bin\Debug\net5.0\RecursiveExtensionMethod.runtimeconfig.dev.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\RecursiveExtensionMethod\bin\Debug\net5.0\RecursiveExtensionMethod.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\RecursiveExtensionMethod\bin\Debug\net5.0\ref\RecursiveExtensionMethod.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\RecursiveExtensionMethod\bin\Debug\net5.0\RecursiveExtensionMethod.pdb
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\RecursiveExtensionMethod\obj\Debug\net5.0\RecursiveExtensionMethod.csproj.AssemblyReference.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\RecursiveExtensionMethod\obj\Debug\net5.0\RecursiveExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\RecursiveExtensionMethod\obj\Debug\net5.0\RecursiveExtensionMethod.AssemblyInfoInputs.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\RecursiveExtensionMethod\obj\Debug\net5.0\RecursiveExtensionMethod.AssemblyInfo.cs
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\RecursiveExtensionMethod\obj\Debug\net5.0\RecursiveExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\RecursiveExtensionMethod\obj\Debug\net5.0\RecursiveExtensionMethod.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\RecursiveExtensionMethod\obj\Debug\net5.0\ref\RecursiveExtensionMethod.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\RecursiveExtensionMethod\obj\Debug\net5.0\RecursiveExtensionMethod.pdb
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\RecursiveExtensionMethod\obj\Debug\net5.0\RecursiveExtensionMethod.genruntimeconfig.cache
