@@ -1,0 +1,16 @@
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\DateTimeMath\bin\Debug\net5.0\DateTimeMath.exe
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\DateTimeMath\bin\Debug\net5.0\DateTimeMath.deps.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\DateTimeMath\bin\Debug\net5.0\DateTimeMath.runtimeconfig.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\DateTimeMath\bin\Debug\net5.0\DateTimeMath.runtimeconfig.dev.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\DateTimeMath\bin\Debug\net5.0\DateTimeMath.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\DateTimeMath\bin\Debug\net5.0\ref\DateTimeMath.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\DateTimeMath\bin\Debug\net5.0\DateTimeMath.pdb
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\DateTimeMath\obj\Debug\net5.0\DateTimeMath.csproj.AssemblyReference.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\DateTimeMath\obj\Debug\net5.0\DateTimeMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\DateTimeMath\obj\Debug\net5.0\DateTimeMath.AssemblyInfoInputs.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\DateTimeMath\obj\Debug\net5.0\DateTimeMath.AssemblyInfo.cs
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\DateTimeMath\obj\Debug\net5.0\DateTimeMath.csproj.CoreCompileInputs.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\DateTimeMath\obj\Debug\net5.0\DateTimeMath.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\DateTimeMath\obj\Debug\net5.0\ref\DateTimeMath.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\DateTimeMath\obj\Debug\net5.0\DateTimeMath.pdb
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\DateTimeMath\obj\Debug\net5.0\DateTimeMath.genruntimeconfig.cache
