@@ -1,0 +1,16 @@
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\StringMethod\bin\Debug\net5.0\StringMethod.exe
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\StringMethod\bin\Debug\net5.0\StringMethod.deps.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\StringMethod\bin\Debug\net5.0\StringMethod.runtimeconfig.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\StringMethod\bin\Debug\net5.0\StringMethod.runtimeconfig.dev.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\StringMethod\bin\Debug\net5.0\StringMethod.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\StringMethod\bin\Debug\net5.0\ref\StringMethod.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\StringMethod\bin\Debug\net5.0\StringMethod.pdb
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\StringMethod\obj\Debug\net5.0\StringMethod.csproj.AssemblyReference.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\StringMethod\obj\Debug\net5.0\StringMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\StringMethod\obj\Debug\net5.0\StringMethod.AssemblyInfoInputs.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\StringMethod\obj\Debug\net5.0\StringMethod.AssemblyInfo.cs
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\StringMethod\obj\Debug\net5.0\StringMethod.csproj.CoreCompileInputs.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\StringMethod\obj\Debug\net5.0\StringMethod.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\StringMethod\obj\Debug\net5.0\ref\StringMethod.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\StringMethod\obj\Debug\net5.0\StringMethod.pdb
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\StringMethod\obj\Debug\net5.0\StringMethod.genruntimeconfig.cache
