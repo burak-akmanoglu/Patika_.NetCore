@@ -1,0 +1,16 @@
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\AlgoritmaSoruları\Soru-1\bin\Debug\net5.0\Soru-1.exe
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\AlgoritmaSoruları\Soru-1\bin\Debug\net5.0\Soru-1.deps.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\AlgoritmaSoruları\Soru-1\bin\Debug\net5.0\Soru-1.runtimeconfig.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\AlgoritmaSoruları\Soru-1\bin\Debug\net5.0\Soru-1.runtimeconfig.dev.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\AlgoritmaSoruları\Soru-1\bin\Debug\net5.0\Soru-1.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\AlgoritmaSoruları\Soru-1\bin\Debug\net5.0\ref\Soru-1.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\AlgoritmaSoruları\Soru-1\bin\Debug\net5.0\Soru-1.pdb
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\AlgoritmaSoruları\Soru-1\obj\Debug\net5.0\Soru-1.csproj.AssemblyReference.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\AlgoritmaSoruları\Soru-1\obj\Debug\net5.0\Soru-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\AlgoritmaSoruları\Soru-1\obj\Debug\net5.0\Soru-1.AssemblyInfoInputs.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\AlgoritmaSoruları\Soru-1\obj\Debug\net5.0\Soru-1.AssemblyInfo.cs
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\AlgoritmaSoruları\Soru-1\obj\Debug\net5.0\Soru-1.csproj.CoreCompileInputs.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\AlgoritmaSoruları\Soru-1\obj\Debug\net5.0\Soru-1.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\AlgoritmaSoruları\Soru-1\obj\Debug\net5.0\ref\Soru-1.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\AlgoritmaSoruları\Soru-1\obj\Debug\net5.0\Soru-1.pdb
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\AlgoritmaSoruları\Soru-1\obj\Debug\net5.0\Soru-1.genruntimeconfig.cache
