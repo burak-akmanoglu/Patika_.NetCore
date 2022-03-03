@@ -1,0 +1,16 @@
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\GenericList\bin\Debug\net5.0\GenericList.exe
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\GenericList\bin\Debug\net5.0\GenericList.deps.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\GenericList\bin\Debug\net5.0\GenericList.runtimeconfig.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\GenericList\bin\Debug\net5.0\GenericList.runtimeconfig.dev.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\GenericList\bin\Debug\net5.0\GenericList.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\GenericList\bin\Debug\net5.0\ref\GenericList.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\GenericList\bin\Debug\net5.0\GenericList.pdb
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\GenericList\obj\Debug\net5.0\GenericList.csproj.AssemblyReference.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\GenericList\obj\Debug\net5.0\GenericList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\GenericList\obj\Debug\net5.0\GenericList.AssemblyInfoInputs.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\GenericList\obj\Debug\net5.0\GenericList.AssemblyInfo.cs
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\GenericList\obj\Debug\net5.0\GenericList.csproj.CoreCompileInputs.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\GenericList\obj\Debug\net5.0\GenericList.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\GenericList\obj\Debug\net5.0\ref\GenericList.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\GenericList\obj\Debug\net5.0\GenericList.pdb
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\GenericList\obj\Debug\net5.0\GenericList.genruntimeconfig.cache
