@@ -1,0 +1,16 @@
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ArrayListeleri\bin\Debug\net5.0\ArrayListeleri.exe
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ArrayListeleri\bin\Debug\net5.0\ArrayListeleri.deps.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ArrayListeleri\bin\Debug\net5.0\ArrayListeleri.runtimeconfig.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ArrayListeleri\bin\Debug\net5.0\ArrayListeleri.runtimeconfig.dev.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ArrayListeleri\bin\Debug\net5.0\ArrayListeleri.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ArrayListeleri\bin\Debug\net5.0\ref\ArrayListeleri.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ArrayListeleri\bin\Debug\net5.0\ArrayListeleri.pdb
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ArrayListeleri\obj\Debug\net5.0\ArrayListeleri.csproj.AssemblyReference.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ArrayListeleri\obj\Debug\net5.0\ArrayListeleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ArrayListeleri\obj\Debug\net5.0\ArrayListeleri.AssemblyInfoInputs.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ArrayListeleri\obj\Debug\net5.0\ArrayListeleri.AssemblyInfo.cs
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ArrayListeleri\obj\Debug\net5.0\ArrayListeleri.csproj.CoreCompileInputs.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ArrayListeleri\obj\Debug\net5.0\ArrayListeleri.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ArrayListeleri\obj\Debug\net5.0\ref\ArrayListeleri.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ArrayListeleri\obj\Debug\net5.0\ArrayListeleri.pdb
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ArrayListeleri\obj\Debug\net5.0\ArrayListeleri.genruntimeconfig.cache
