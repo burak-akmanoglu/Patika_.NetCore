@@ -1,0 +1,16 @@
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\Classes\bin\Debug\net5.0\Classes.exe
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\Classes\bin\Debug\net5.0\Classes.deps.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\Classes\bin\Debug\net5.0\Classes.runtimeconfig.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\Classes\bin\Debug\net5.0\Classes.runtimeconfig.dev.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\Classes\bin\Debug\net5.0\Classes.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\Classes\bin\Debug\net5.0\ref\Classes.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\Classes\bin\Debug\net5.0\Classes.pdb
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\Classes\obj\Debug\net5.0\Classes.csproj.AssemblyReference.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\Classes\obj\Debug\net5.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\Classes\obj\Debug\net5.0\Classes.AssemblyInfoInputs.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\Classes\obj\Debug\net5.0\Classes.AssemblyInfo.cs
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\Classes\obj\Debug\net5.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\Classes\obj\Debug\net5.0\Classes.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\Classes\obj\Debug\net5.0\ref\Classes.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\Classes\obj\Debug\net5.0\Classes.pdb
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\Classes\obj\Debug\net5.0\Classes.genruntimeconfig.cache
