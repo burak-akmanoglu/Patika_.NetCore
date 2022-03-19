@@ -78,7 +78,7 @@ namespace encapsulation
             get => sinif;
             set
             {
-                if (value == -1)
+                if (value < 1)
                 {
                     Console.WriteLine("Sınıf En az 1 olabilir");
                     sinif = 1;
