@@ -1,0 +1,16 @@
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\StaticClasses\bin\Debug\net5.0\StaticClasses.exe
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\StaticClasses\bin\Debug\net5.0\StaticClasses.deps.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\StaticClasses\bin\Debug\net5.0\StaticClasses.runtimeconfig.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\StaticClasses\bin\Debug\net5.0\StaticClasses.runtimeconfig.dev.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\StaticClasses\bin\Debug\net5.0\StaticClasses.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\StaticClasses\bin\Debug\net5.0\ref\StaticClasses.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\StaticClasses\bin\Debug\net5.0\StaticClasses.pdb
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\StaticClasses\obj\Debug\net5.0\StaticClasses.csproj.AssemblyReference.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\StaticClasses\obj\Debug\net5.0\StaticClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\StaticClasses\obj\Debug\net5.0\StaticClasses.AssemblyInfoInputs.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\StaticClasses\obj\Debug\net5.0\StaticClasses.AssemblyInfo.cs
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\StaticClasses\obj\Debug\net5.0\StaticClasses.csproj.CoreCompileInputs.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\StaticClasses\obj\Debug\net5.0\StaticClasses.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\StaticClasses\obj\Debug\net5.0\ref\StaticClasses.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\StaticClasses\obj\Debug\net5.0\StaticClasses.pdb
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\StaticClasses\obj\Debug\net5.0\StaticClasses.genruntimeconfig.cache
