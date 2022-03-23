@@ -1,0 +1,16 @@
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.exe
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.deps.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.runtimeconfig.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.runtimeconfig.dev.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TelefonRehberi\bin\Debug\net5.0\ref\TelefonRehberi.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.pdb
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.csproj.AssemblyReference.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.AssemblyInfoInputs.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.AssemblyInfo.cs
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.csproj.CoreCompileInputs.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TelefonRehberi\obj\Debug\net5.0\ref\TelefonRehberi.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.pdb
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.genruntimeconfig.cache
