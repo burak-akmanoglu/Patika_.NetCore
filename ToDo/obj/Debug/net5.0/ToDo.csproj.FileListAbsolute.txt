@@ -1,0 +1,16 @@
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ToDo\bin\Debug\net5.0\ToDo.exe
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ToDo\bin\Debug\net5.0\ToDo.deps.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ToDo\bin\Debug\net5.0\ToDo.runtimeconfig.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ToDo\bin\Debug\net5.0\ToDo.runtimeconfig.dev.json
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ToDo\bin\Debug\net5.0\ToDo.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ToDo\bin\Debug\net5.0\ref\ToDo.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ToDo\bin\Debug\net5.0\ToDo.pdb
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ToDo\obj\Debug\net5.0\ToDo.csproj.AssemblyReference.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ToDo\obj\Debug\net5.0\ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ToDo\obj\Debug\net5.0\ToDo.AssemblyInfoInputs.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ToDo\obj\Debug\net5.0\ToDo.AssemblyInfo.cs
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ToDo\obj\Debug\net5.0\ToDo.csproj.CoreCompileInputs.cache
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ToDo\obj\Debug\net5.0\ToDo.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ToDo\obj\Debug\net5.0\ref\ToDo.dll
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ToDo\obj\Debug\net5.0\ToDo.pdb
+C:\Users\Burak Akmanoğlu\Desktop\Patika_.Net_Core\ToDo\obj\Debug\net5.0\ToDo.genruntimeconfig.cache
